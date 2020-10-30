@@ -1,4 +1,4 @@
-package com.sznewbest.printerforandroid;
+package com.sznewbest.printerforandroid.Activity;
 
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;

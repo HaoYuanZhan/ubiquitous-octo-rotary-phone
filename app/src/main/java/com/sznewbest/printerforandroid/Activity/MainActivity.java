@@ -1,4 +1,4 @@
-package com.sznewbest.printerforandroid;
+package com.sznewbest.printerforandroid.Activity;
 
 
 import android.os.Message;
@@ -12,6 +12,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.sznewbest.printerforandroid.Activity.BaseActivity;
+import com.sznewbest.printerforandroid.R;
 import com.sznewbest.printerforandroid.common.MessageType;
 
 import java.io.UnsupportedEncodingException;
